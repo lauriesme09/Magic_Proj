@@ -1,2 +1,3 @@
-# Proyectos_ML
-Proyectos de Machine Learning
+# MAGIC - Clasifier
+Proyectos de clasificación de partículas mediante Regresión Logística y Random Forest. 
+
